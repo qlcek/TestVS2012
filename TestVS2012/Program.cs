@@ -9,7 +9,7 @@ namespace TestVS2012
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World - modified using CodeHub on iPhone");
         }
     }
 }
